@@ -7,31 +7,28 @@ function Movies() {
         <h4>Recommended For You</h4>
         <Content>
             <Wrap>
-                <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2415/1112415-v-f59565643ec7"/>
+                <img src="https://lumiere-a.akamaihd.net/v1/images/encanto-id-poster_b0f0a082.jpeg"/>
             </Wrap>
             <Wrap>
-                <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2415/1112415-v-f59565643ec7"/>
+                <img src="https://lumiere-a.akamaihd.net/v1/images/encanto-id-poster_b0f0a082.jpeg"/>
             </Wrap>
             <Wrap>
-                <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2415/1112415-v-f59565643ec7"/>
+                <img src="https://lumiere-a.akamaihd.net/v1/images/encanto-id-poster_b0f0a082.jpeg"/>
             </Wrap>
             <Wrap>
-                <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2415/1112415-v-f59565643ec7"/>
+                <img src="https://lumiere-a.akamaihd.net/v1/images/encanto-id-poster_b0f0a082.jpeg"/>
             </Wrap>
             <Wrap>
-                <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2415/1112415-v-f59565643ec7"/>
+                <img src="https://lumiere-a.akamaihd.net/v1/images/encanto-id-poster_b0f0a082.jpeg"/>
             </Wrap>
             <Wrap>
-                <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2415/1112415-v-f59565643ec7"/>
+                <img src="https://lumiere-a.akamaihd.net/v1/images/encanto-id-poster_b0f0a082.jpeg"/>
             </Wrap>
             <Wrap>
-                <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2415/1112415-v-f59565643ec7"/>
+                <img src="https://lumiere-a.akamaihd.net/v1/images/encanto-id-poster_b0f0a082.jpeg"/>
             </Wrap>
             <Wrap>
-                <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2415/1112415-v-f59565643ec7"/>
-            </Wrap>
-            <Wrap>
-                <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2415/1112415-v-f59565643ec7"/>
+                <img src="https://lumiere-a.akamaihd.net/v1/images/encanto-id-poster_b0f0a082.jpeg"/>
             </Wrap>
         </Content>
     </Container>
